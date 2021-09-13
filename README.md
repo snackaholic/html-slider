@@ -1,5 +1,5 @@
-# Contentslider
-This project contains a small & simple contentslider
+# Slideshow
+This project contains a small & simple slideshow
 
 Preview:
-https://snackaholic.github.io/html-slider/
+https://snackaholic.github.io/slideshow/
