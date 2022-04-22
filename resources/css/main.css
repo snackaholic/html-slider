@@ -34,7 +34,8 @@ covers the whole screen
     /* style the content inside of me */
     padding:20vh 20vw;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
     text-align: left;
